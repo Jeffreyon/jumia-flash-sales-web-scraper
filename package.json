@@ -1,0 +1,21 @@
+{
+    "name": "scraping",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon app.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "chrome-launcher": "^0.15.1",
+        "isomorphic-fetch": "^3.0.0",
+        "puppeteer": "^19.3.0",
+        "puppeteer-core": "^19.3.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    }
+}
