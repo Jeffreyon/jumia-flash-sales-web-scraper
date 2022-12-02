@@ -10,9 +10,9 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
+        "cheerio": "^1.0.0-rc.12",
         "chrome-launcher": "^0.15.1",
         "isomorphic-fetch": "^3.0.0",
-        "puppeteer": "^19.3.0",
         "puppeteer-core": "^19.3.0"
     },
     "devDependencies": {
